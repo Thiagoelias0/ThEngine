@@ -1,0 +1,82 @@
+#cadastrar1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  transition: 0,5s;
+  
+}
+
+#exportar1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  transition: 0,5s;
+  
+}
+
+#jogar1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  transition: 0,5s;
+}
+
+#Incluir1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
+
+#importar1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
+
+#norte1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
+
+#leste1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
+
+#oeste1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
+
+#sul1{
+  padding: 6px;
+  width: 20%;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+  transition: 0,5s;
+}
